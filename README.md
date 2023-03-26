@@ -36,3 +36,23 @@ A pivot table and chart were created with the column of "state" and rows of "Dat
 <p align="center">
 <img src="https://github.com/tlacher1/excel-challenge/blob/ca1ce0bbcdb0cf80e7a199ae3c91b9c2c646aff7/Line%20graph%20based%20on%20total%20outcome.png" />
 </p>
+
+## Conclusion
+
+1. Three conclusions that can be drawn from the crowdfunding campaigns:
+
+*   Plays are the most crowdfunded subcategory overall.
+
+*   Overall 56.5 % of crowdfunded campaigns were successful according to the dataset.
+
+*   Campaigns that have a set goal between 1000 and 4999 have a greater success rate with the highest number of total projects.
+
+2. What are some limitations of this dataset?
+
+1. The majority of the data set entries are US based campaigns which has a tendency to skew the results towards US interests.
+
+2. Some categories are informationally under represented in the table such as journalism which has a 100% success rate, but there are only 4 campaigns.
+
+3. What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
+
+1. Display a table or graph that shows crowdfunding campaigns exclusively based on country. This will provided backers information specific to their home country’s success rate per category.
