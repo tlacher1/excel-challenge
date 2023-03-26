@@ -27,3 +27,12 @@ A pivot table and chart were also created to analyze how many campaigns were suc
 <img src="https://github.com/tlacher1/excel-challenge/blob/338f1dc2441b7594826d854e8d17d272939c8a16/Graph%20of%20subcategory%20stats.png" />
 </p>
 
+Updated dates within the "deadline" and "launched_at" columns from Unix timestamps format to Excel's date format.  The new datecolumns were named "Date Created Conversion" and "Date Ended Conversion".
+
+A pivot table and chart were created with the column of "state" and rows of "Date Created Conversion" by month.  The values were based on the count of "state" and then filtered based on "parent category" and "Years".  A pivot chart line graph was then used to visualize the outcomes.
+
+<p align="center">
+<img src="https://github.com/tlacher1/excel-challenge/blob/ca1ce0bbcdb0cf80e7a199ae3c91b9c2c646aff7/Pivot%20table%20by%20total%20outcome%20based%20on%20launch%20date.png" />
+<p align="center">
+<img src="https://github.com/tlacher1/excel-challenge/blob/ca1ce0bbcdb0cf80e7a199ae3c91b9c2c646aff7/Line%20graph%20based%20on%20total%20outcome.png" />
+</p>
