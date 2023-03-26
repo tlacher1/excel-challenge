@@ -5,7 +5,7 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
 ## Solution
-Conditional formatting was applied to the "Outcome" and "Percent Funded" columns with different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live. The "Percent Funded" column was created to uncover how much money a campaign made to reach its initial goal.
+Conditional formatting was applied to the "Outcome" and "Percent Funded" columns.  Different color was applied depending on whether the associated campaign was successful, failed, canceled, or is currently live. The "Percent Funded" column was created to uncover how much money a campaign made to reach its initial goal.
 
 <p align="center">
 <img src="https://github.com/tlacher1/excel-challenge/blob/main/Kickstarter%20-%20conditional%20image.png">
@@ -27,9 +27,9 @@ A pivot table and chart were also created to analyze how many campaigns were suc
 <img src="https://github.com/tlacher1/excel-challenge/blob/338f1dc2441b7594826d854e8d17d272939c8a16/Graph%20of%20subcategory%20stats.png" />
 </p>
 
-Updated dates within the "deadline" and "launched_at" columns from Unix timestamps format to Excel's date format.  The new datecolumns were named "Date Created Conversion" and "Date Ended Conversion".
+Updated the dating format from the "deadline" and "launched_at" columns from Unix timestamps to Excel's date format.  The new datecolumns were then named "Date Created Conversion" and "Date Ended Conversion".
 
-A pivot table and chart were created with the column of "state" and rows of "Date Created Conversion" by month.  The values were based on the count of "state" and then filtered based on "parent category" and "Years".  A pivot chart line graph was then used to visualize the outcomes.
+A pivot table and chart were also created with the column of "state" and rows of "Date Created Conversion" by month.  The values were based on the count of "state" and then filtered based on "parent category" and "Years".  A pivot chart line graph was then used to visualize the outcomes.
 
 <p align="center">
 <img src="https://github.com/tlacher1/excel-challenge/blob/ca1ce0bbcdb0cf80e7a199ae3c91b9c2c646aff7/Pivot%20table%20by%20total%20outcome%20based%20on%20launch%20date.png" />
