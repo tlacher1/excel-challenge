@@ -49,7 +49,7 @@ A pivot table and chart were created with the column of "state" and rows of "Dat
 
 2. Define some of the limitations of the dataset:
 
-*  The majority of the data set entries are US based campaigns which has a tendency to skew the results towards US interests.
+*  The majority of the data set entries are US based campaigns which have a tendency to skew the results towards US interests.
 
 *  Some categories are informationally under represented in the table such as journalism which has a 100% success rate, but there are only 4 campaigns.
 
