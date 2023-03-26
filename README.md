@@ -7,8 +7,9 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 ## Solution
 Conditional formatting was applied to the "Outcome" and "Percent Funded" columns with different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live. The "Percent Funded" column was created to uncover how much money a campaign made to reach its initial goal.
 
-![<img src="Kickstarter - conditional image.png">](https://github.com/tlacher1/excel-challenge/blob/main/Kickstarter%20-%20conditional%20image.png)
-
+<p align="center">
+<img src="https://github.com/tlacher1/excel-challenge/blob/main/Kickstarter%20-%20conditional%20image.png">
+</p> 
 A pivotal table was created to see the initial count of how many campaigns were successful, failed, canceled, or currently live per category. Also a stacked column pivot chart was added to filter by country based on the table.
 
 <p align="center">
