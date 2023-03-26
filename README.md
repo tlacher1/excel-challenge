@@ -10,7 +10,9 @@ Conditional formatting was applied to the "Outcome" and "Percent Funded" columns
 <p align="center">
 <img src="https://github.com/tlacher1/excel-challenge/blob/main/Kickstarter%20-%20conditional%20image.png">
 </p> 
-A pivotal table was created to see the initial count of how many campaigns were successful, failed, canceled, or currently live per category. Also a stacked column pivot chart was added to filter by country based on the table.
+
+A pivotal table was created to see the counts of how many campaigns were initially successful, failed, canceled, or currently live per category. Also a stacked column pivot chart was added to filter by country based on the table.
+
 
 <p align="center">
 <img src="https://github.com/tlacher1/excel-challenge/blob/41f654501744b836b2fe7af250c00ac584f5d588/Pivot%20table.png" />
