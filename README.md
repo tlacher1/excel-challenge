@@ -20,4 +20,10 @@ A pivotal table was created to see the counts of how many campaigns were initial
 <img src="https://github.com/tlacher1/excel-challenge/blob/41f654501744b836b2fe7af250c00ac584f5d588/Graph%20of%20category%20stats.png" />
 </p>
 
+A pivot table and chart were also created to analyze how many campaigns were successful, failed, or canceled, or are currently live per sub-category. 
+<p align="center">
+<img src="https://github.com/tlacher1/excel-challenge/blob/338f1dc2441b7594826d854e8d17d272939c8a16/Pivot%20table%20by%20sub%20category.png" />
+<p align="center">
+<img src="https://github.com/tlacher1/excel-challenge/blob/338f1dc2441b7594826d854e8d17d272939c8a16/Graph%20of%20subcategory%20stats.png" />
+</p>
 
