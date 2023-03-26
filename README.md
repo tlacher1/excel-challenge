@@ -7,4 +7,4 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 ## Solution
 Conditional formatting was applied to the "Outcome" and "Percent Funded" columns with different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live. The "Percent Funded" column was created to uncover how much money a campaign made to reach its initial goal.
 
-!![Conditional Formatting of Outcome and Percent Funded per campaign](https://user-images.githubusercontent.com/35156458/227786499-62f74c94-5618-4baf-9b3f-cc65f1eae0f4.png)
+![Conditional Formatting of Outcome and Percent Funded per campaign](https://user-images.githubusercontent.com/35156458/227786499-62f74c94-5618-4baf-9b3f-cc65f1eae0f4.png)
