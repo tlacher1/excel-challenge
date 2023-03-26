@@ -11,6 +11,10 @@ Conditional formatting was applied to the "Outcome" and "Percent Funded" columns
 
 A pivotal table was created to see the initial count of how many campaigns were successful, failed, canceled, or currently live per category. Also a stacked column pivot chart was added to filter by country based on the table.
 
-![<align="center">](https://github.com/tlacher1/excel-challenge/blob/41f654501744b836b2fe7af250c00ac584f5d588/Pivot%20table.png)
-![<align="center>](https://github.com/tlacher1/excel-challenge/blob/41f654501744b836b2fe7af250c00ac584f5d588/Graph%20of%20category%20stats.png)
+<p align="center">
+<img src="https://github.com/tlacher1/excel-challenge/blob/41f654501744b836b2fe7af250c00ac584f5d588/Pivot%20table.png" />
+<p align="center">
+<img src="https://github.com/tlacher1/excel-challenge/blob/41f654501744b836b2fe7af250c00ac584f5d588/Graph%20of%20category%20stats.png" />
+</p>
+
 
