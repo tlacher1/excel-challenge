@@ -7,4 +7,4 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 ## Solution
 Conditional formatting was applied to the "Outcome" and "Percent Funded" columns with different color, depending on whether the associated campaign was successful, failed, canceled, or is currently live. The "Percent Funded" column was created to uncover how much money a campaign made to reach its initial goal.
 
-[Contribution guidelines for this project]([docs/CrowdfundingBook.xlsx])
+[Contribution guidelines for this project](https://github.com/tlacher1/excel-challenge/blob/main/CrowdfundingBook.xlsx)
